@@ -4,4 +4,7 @@ GroupMate
 3. PUTERI FARHAH BINTI HANAPI (B032310156)
 4. SHARON EILYA ANAK LAYANG (B032310093)
    
+[DAD Project.pdf](https://github.com/user-attachments/files/16044223/DAD.Project.pdf)
+
+
 https://github.com/Puteri22/PROJECT_DAD/tree/main/src
